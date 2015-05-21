@@ -1,0 +1,1 @@
+Este Script, permite generar un completo sistema ABM para cualqueir base de datos hecha en Mysql. Incluye la posibilidad de vincular combos con datos de otras tablas.
